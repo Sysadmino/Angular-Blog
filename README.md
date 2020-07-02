@@ -1,5 +1,7 @@
 # Angular-Blog
 Динамический angular-блог 
 
-## Ссылки на блог => https://blog-b9080.firebaseapp.com/ ; blog-b9080.firebaseapp.com/admin
+# Посмотреть можно по ссылкам: 
+https://blog-b9080.firebaseapp.com/
+https://blog-b9080.firebaseapp.com/admin
 
